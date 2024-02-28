@@ -1,4 +1,4 @@
-# serverless computing: Architecture and Applications  
+# Serverless computing: Architecture and Applications  
 ## Overview 
 This repository contains the documentation for the research paper on serverless computing
 ## ABSTRACT
