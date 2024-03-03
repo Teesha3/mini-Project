@@ -19,6 +19,10 @@ This research paper explores serverless computing, where cloud providers manage 
 - **Fine-Grained Resource Allocation:** Investigate methods for more granular allocation of resources in serverless environments to better match the needs of individual functions or tasks, thus improving resource utilization.
 - **Cold Start Mitigation Techniques:** Explore various techniques to reduce cold start latency in serverless functions, such as pre-warming, caching, or predictive scaling based on historical usage patterns.
 - **Environmentally Sustainable Serverless Computing:** Analyze the environmental impact of serverless computing and propose strategies for optimizing resource utilization and reducing energy consumption in serverless platforms.
+## Our Works 
+#### [Synopsis](https://github.com/Sushantjha1236/mini-Project/blob/Phase1/synopsis.pdf)
+#### [Project proposal](https://github.com/Sushantjha1236/mini-Project/blob/Phase1/projectProposal.pdf)
+#### [PPt](https://github.com/Sushantjha1236/mini-Project/blob/Phase2/Project%20PPT.pdf)
 ## Details of our project 
 You are very welcome to view our project and provide us with the feedback.
 To check the progress you can click here 
